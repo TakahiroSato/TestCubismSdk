@@ -59,3 +59,10 @@ Thumbs.db
 
 # Unity Logs
 Logs
+
+SampleData/
+
+**/Assets/Import/
+TestCubismSdk/Assets/Import.meta
+
+TestCubismSdk/Assets/Live2D/Cubism/Samples/
